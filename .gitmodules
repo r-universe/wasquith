@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "copBasic"]
+	path = copBasic
+	url = https://github.com/wasquith/copbasic
+	shallow = true
+	registered = true
+[submodule "lmomco"]
+	path = lmomco
+	url = https://github.com/wasquith/lmomco
+	shallow = true
+	registered = true

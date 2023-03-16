@@ -1,0 +1,10 @@
+[
+  {
+    "package": "copBasic",
+    "oncran": true
+  },
+  {
+    "package": "lmomco",
+    "oncran": true
+  }
+]
