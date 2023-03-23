@@ -13,3 +13,8 @@
 	url = https://github.com/wasquith/lmomco
 	shallow = true
 	registered = true
+[submodule "weirs"]
+	path = weirs
+	url = https://github.com/cran/weirs
+	shallow = true
+	registered = true
